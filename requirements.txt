@@ -1,6 +1,6 @@
 moviepy>=1.0.3
 python-ffmpeg>=2.0.0
-pillow==9.0.1
+pillow==10.3.0
 openai
 pydantic
 python-dotenv
